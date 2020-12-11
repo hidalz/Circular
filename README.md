@@ -1,6 +1,7 @@
 # Circular 회보
 Circular is a simple easy-to-use website for buying and selling products near to your localization.
 This React native based application is a project for software engineering course in Hanyang University.
+It's based on Expo CLI platform.
 
 ## Contributors
 - Nicolas Arnedo [GitHub](https://github.com/navillanueva)
@@ -20,5 +21,6 @@ PDF documentation:
 Demo video: [YouTube](https://youtu.be/YaJj5phwxrU)
 
 Presentation:
+
 
 
