@@ -14,13 +14,6 @@ In Korea, Second-hand-market has been growing steadily.Because the consumer ment
 
 ## Links
 
-Online documentation at [Overleaf](https://www.overleaf.com/project/5fd2627c6dd73e837ff0392d)
-
-PDF documentation:
+Online documentation at [Overleaf](https://www.overleaf.com/read/hdgxsbtvdbvc)
 
 Demo video: [YouTube](https://youtu.be/YaJj5phwxrU)
-
-Presentation:
-
-
-
